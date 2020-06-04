@@ -1,7 +1,7 @@
 {
     "name": "magento/module-tax-sample-data-venia",
     "require": {
-        "magento/module-tax": "100.3.*"
+        "magento/module-tax": "*"
     },
     "type": "magento2-module",
     "license": [
